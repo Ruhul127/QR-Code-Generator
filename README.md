@@ -4,6 +4,8 @@
 
 This project is a **QR Code Generator** built using **Flask** (backend framework), **Python**, **HTML**, **CSS**, and **JavaScript**. The application allows users to input a URL, generates a QR code for the URL, and provides the option to download the generated QR code as a PNG image.
 
+- Below is an example of my project, the QR code will direct you to YouTube.
+
 ![QR Code Example](QR_code_generator/assets/qr-code-example.PNG)
 
 ---
@@ -25,7 +27,8 @@ This project is a **QR Code Generator** built using **Flask** (backend framework
 │   └── index.html         # HTML template for the web page
 ├── static/
 │   └── style.css          # CSS styles for the application
-└── requirements.txt       # Python dependencies
+├── assets/
+.   └── qr-code-example.PNG    
 ```
 
 ---
