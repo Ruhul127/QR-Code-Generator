@@ -91,10 +91,3 @@ This project is a **QR Code Generator** built using **Flask** (backend framework
   - Dynamically displays the QR code and download link without reloading the page.
 
 ---
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). 
-
----
