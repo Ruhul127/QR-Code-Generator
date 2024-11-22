@@ -21,7 +21,7 @@ The **QR Code Generator** is a web application built with **Flask**, **Python**,
 
 ## Project Structure
 
-The project is organized as follows:
+The project is organised as follows:
 
 ```plaintext
 qr-code-generator/
