@@ -15,7 +15,7 @@ The **QR Code Generator** is a web application built with **Flask**, **Python**,
 
 - **Generate QR Codes**: Input any valid URL to receive its QR code.
 - **Downloadable Output**: Save the generated QR code as a PNG file with a single click.
-- **Responsive Design**: The user interface is optimized for all screen sizes and devices.
+- **Responsive Design**: The user interface is optimised for all screen sizes and devices.
 
 ---
 
